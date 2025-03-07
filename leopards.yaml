@@ -2,7 +2,11 @@ team:Leopards
 
 manager: Luke
 
+<<<<<<< HEAD
 Coach: Lupi
+=======
+Coach: Dooli
+>>>>>>> 064f0bf (Edit Leopards Manager)
 
 members:
 - Linda
